@@ -1110,6 +1110,7 @@
     - فارسی
     - responsive
     - three_column
+<<<<<<< HEAD
 - name: Wikitten
   description: A personal wiki imitate Wikitten style for Hexo
   link: https://github.com/zthxxx/hexo-theme-Wikitten
@@ -1165,3 +1166,5 @@
   - responsive
   - single page
   - timeline
+=======
+>>>>>>> 7784649cecba6eaaa1e295ecdf7a8e4b2220351d
